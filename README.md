@@ -1,5 +1,6 @@
 # Calculator-Application
 Python project
+
 Design and implement a simple command-line calculator application in Python, utilizing functions to perform basic arithmetic operations. The primary objective is to create an interactive and user-friendly calculator that allows users to perform:
 
 1.addition 
